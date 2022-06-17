@@ -1,0 +1,69 @@
+body {
+    height: 100%;
+    margin: 1%;
+    color: #0B4F6C;
+    background-color: #E5E5E8;
+    border-style: solid;
+    border-color: rgb(38, 37, 37);
+    border-width: 2px;
+  }
+  header {
+    background-color: #71D692;
+    margin: 1% 5% 1% 5%;
+    border-style: solid;
+    border-color: rgb(216, 147, 29);
+    border-width: 5px;
+    text-align: center;
+  }
+  .title{
+    color: deeppink;
+  }
+  h1{
+    font-size: 4vmin;
+ }
+  h2 {
+    font-size: 3.7vmin;
+    text-align: center;
+  
+  }
+  h3 {
+    font-size: 3.5vmin;
+    text-align: center;
+    font-style: italic;
+    color:#a555ec;
+  }
+  li {
+    font-size: 3.2vmin;
+  }
+  
+  #article {
+    border-style: solid;
+    border-color: rgb(15, 15, 18);
+    border-width: 5px;
+  }
+  #image {
+    max-width: 700px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-color: rgb(75, 60, 241);
+    border-width: 5px;
+  }
+  #dates {
+    align-content: center;
+    border-style: solid;
+    border-color: maroon;
+    border-width: 5px;
+  }
+  #tribute-info {
+    margin: 1% 1% 1% 2%;
+    border-style: solid;
+    border-color: hotpink;
+    border-width: 5px;
+  }
+  #video{
+  align-items: center;
+  margin-left: 550px;
+  margin-bottom: 20px;
+  }
